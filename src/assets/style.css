@@ -1,0 +1,45 @@
+.kornevoj-kontejner{
+    width: 1015px;
+    height: 1010px;
+    border: 1px solid black;    
+    border-radius: 5px;    
+}
+.sticky-forma{
+    position: sticky;
+    border: 1px solid blue;
+    /* Это чтобы панель приобрела свойство sticky. */
+    top: 20px;
+    bottom: 10px;    
+    /*  */
+    margin-left: 10px;
+    margin-top: 10px;    
+    /*  */
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;        
+    color: black;
+    border-radius: 5px;
+    width: 240px;
+    float: left;    
+}
+.app-1{
+    position: relative;
+    margin-left: 10px;
+    margin-top: 400px;
+    width: 800px;
+}
+.blok-del{
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;    
+    height: 985px;
+    overflow: scroll;    
+    width: 730px;
+    float: left;    
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;    
+}
+.knopka{
+    margin-top: 5px;
+}

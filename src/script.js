@@ -1,0 +1,1 @@
+let vneshnyaya_peremennaya = "Xxxxxxx";

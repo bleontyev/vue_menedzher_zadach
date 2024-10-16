@@ -1,6 +1,5 @@
 <!--
-Here we show the simplest possible component which accepts a prop and renders it.
-Learn more about components in the guide!
+Этот компонент для овощей.
 -->
 
 <script>
@@ -25,7 +24,7 @@ export default {
 <template>
 
 <div style="width: 300px;">
-  <p>Перед компонентом.</p>
+  <p>Список из примера.</p>
   <!-- <div id="app">Первый</div> -->
   <!-- <br> -->
   <ul>
